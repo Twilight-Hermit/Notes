@@ -1,0 +1,50 @@
+% TeX root = ../Main.tex
+
+% First argument to \section is the title that will go in the table of contents. Second argument is the title that will be printed on the page.
+\section[Introduction (Date) --]{Lecture 1 (1/21)}
+
+\subsection{Basic Definitions}
+\textbf{Resonance:} The property of cancellation of reactance when inductive and capacitive reactance are in series and cancellation of susceptance when they are in parallel is called Resonance.
+
+\textbf{Figure of merit or Q factor:} Q factor is a measure of efficiency of the circuit. It is respresented by the following expression:
+$$Q = 2\pi \text{ } \text{X} \text{ } \frac{\text{Maximum energy stored per cycle}}{\text{Energy dissipated per cycle}}$$
+[Dimensionless]
+
+\subsection{Q Factor, Figure of merit}
+As mentioned above, Q factor is used as a measure of efficiency of a circuit. In terms of maximum current,
+the maximum energy stored in an inductor is ${LI_{m}^2}/{2}$ and energy dissipation $I_{m}^2R_{s}/{2f}$ when $R_{s}$ is in series with the inductor.
+So we can write the Q factor as:
+$$Q=\frac{2\pi LI_{m}^2}{I_{m}^2R_{s}/{2f}}=\frac{2\pi fL}{R_{s}}=\frac{\omega L}{R_{s}}$$
+
+Similarly with capacitance in parallel with resistance $R_{s}$
+$$Q=\frac{2\pi CE_{m}^2}{E_{m}^2/R_{p}f}=2\pi fCR_{p}=\omega CR_{p}$$
+Where $E_{m}$ is the voltage across C and $R_{p}$
+
+\subsection{Series Resonance}
+%Insert Circuit diagram
+Total energy in the circuit would be 
+$$E=E_{R}+E_{L}+E_{C}$$
+Where $E_{R}$, $E_{L}$, $E_{C}$ are energy across resistor, inductor and capacitor respectively.
+Rms value of this energy is:
+$$E_{rms}=I_{rms}R+I_{rms}Z_{L}+I_{rms}Z_{C}$$
+$$E_{rms}=I_{rms}R+I_{rms}(j\omega L)+I_{rms}(\frac{-j}{\omega C})$$
+$$E_{rms}=I_{rms}Z$$
+Where,
+$$Z=R+j(\omega L-\frac{1}{\omega C})^2$$
+We may draw a vector diagram of Impedance. Obtaining the magnitude:
+$$|Z|=\sqrt{R^2+j(\omega L-\frac{1}{\omega C})^2}$$
+
+And Phase angle(Angle between x axis and Impedance vector):
+$$\textit{tan} \delta = \frac{\omega L - \frac{1}{\omega C}}{R}$$
+
+As $\omega$ changes, $\omega L$ and $\frac{1}{\omega C}$ will change as well and at a certain frequency, say $\omega = \omega_{0}$, they will become equal.
+$$\omega L = \frac{1}{\omega C}$$
+At this frequency, Impedance of the circuit becomes minimum and current in the circuit is maximum. 
+At resonance,
+$$(I_{rms})_{R}=\frac{E_{rms}}{R}$$
+$$\omega_{r} L = \frac{1}{\omega_{r} C}$$
+Where $\omega_{ar}$ is the angular frequency at resonance.
+$$\omega_{r}^2 = \frac{1}{LC}$$
+$$2\pi f_{r} = \frac{1}{\sqrt{LC}}$$
+$$f_{r} = \frac{1}{2\pi \sqrt{LC}}$$
+%insert graph plot of series resonance
