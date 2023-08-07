@@ -1,10 +1,30 @@
 % TeX root = ../Main.tex
 
 % First argument to \section is the title that will go in the table of contents. Second argument is the title that will be printed on the page.
-\section[Lecture 1 (Date) -- {\it Short title for this lecture}]{Lecture 1 (1/21)}
+\section[Lecture 1 (Date) -- {\it Basic Concepts}]{Lecture 1 (1/21)}
 
-\subsection{First subsection}
+\subsection{Constraints}
+A constraint can be defined as a rule, parameter or a limitation that the system on which it is imposed
+on must follow. Constraints can be classified into the following: 
+    \subsubsection{Holonomic}
+    If the equation of constraint acting on a system of N particles can be expressed in the form $f(r_{1}, r_{2}, r_{3},....)=0$
+    relating the coordinates and time, the constraint is called a Holonomic constraint. 
+    \subsubsection{Non-Holonomic}
+    If the constraint cannot be expressed in the $f(r_{1}, r_{2}, r_{3},....)=0$ form and involves
+    an inequality sign, the constraint is called Non-Holonomic.
+    \subsubsection{Scleronomic}
+    The Constraints that are independent of time are classified as scleronomic constraints.
+    \subsubsection{Rheonomic}
+    Constraints that contain time as an explicit variable, i.e dependant on time are called rheonomic constraints.
+\subsection{Generalized coordinates}
+For a system of N particles, 3N coordinates are required to define it completely. If there are 'k' equations of Constraints, the 
+number of degreese of freedom are reduced to $3N-k=n$. Thus we require N independent coordinates $\{q_{1}, q_{2}, .... , q_{n}\}$
+to specify define the system. This set of N coordinates are called generalized coordinates. The transformation equation of the 
+system can be expressed in terms of Generalized equations as 
+$$r_{i}=r_{j}\{q_{1}, q_{2}, q_{3}, ... , t\}$$ 
+Where j=1, 2, 3 \dots
 
-
+For a particle moving on the surface of a sphere, generalized coordinates are $\{\theta, \phi\}$ as the system has two degrees of freedom.
+For a bird flying through the sky, the generalized coordinates is $\{x, y, z\}$. 
 
 \subsection{Second subsection}
