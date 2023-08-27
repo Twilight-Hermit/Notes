@@ -12,8 +12,6 @@ The topics included as of now are:
 - Magnetism
 - Nuclear Physics
 
-
-
 Don't download the PDFs, as they'll keep updating, just open them from the link or app itself. If you do decide to download, keep in mind that it may be outdated.
 
 Feel free to post any issues in the issues tab or if you don't have an account, just message me on whatsapp.
