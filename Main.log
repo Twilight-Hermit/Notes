@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.9.23)  8 AUG 2024 22:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.9.23)  8 AUG 2024 22:01
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -786,13 +786,13 @@ File: t1zpltlf.fd 2021/05/25 v1.0 font definition file for T1/zpl/TLF
 )
 LaTeX Font Info:    Font shape `T1/zplTLF/m/n' will be
 (Font)              scaled to size 12.0pt on input line 191.
- (./Main.aux)
+
+No file Main.aux.
 \openout1 = `Main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/npxmi/m/it on input line 191.
 LaTeX Font Info:    Trying to load font information for OML+npxmi on input line
  191.
-
 (/usr/share/texmf-dist/tex/latex/newpx/omlnpxmi.fd
 File: omlnpxmi.fd 2013/03/21 Fontinst v1.933 font definitions for OML/npxmi.
 )
@@ -881,12 +881,12 @@ Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
 )
 Package hyperref Info: Link coloring ON on input line 191.
- (./Main.out) (./Main.out)
 \@outlinefile=\write3
 \openout3 = `Main.out'.
 
 \c@mv@tabular=\count331
 \c@mv@boldtabular=\count332
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -968,10 +968,10 @@ File: unpxsyc.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxsyc.
 )
 LaTeX Font Info:    Font shape `T1/zplTLF/b/n' will be
 (Font)              scaled to size 14.4pt on input line 203.
- (./Main.toc)
+
+No file Main.toc.
 \tf@toc=\write4
 \openout4 = `Main.toc'.
-
 
 
 ! LaTeX Error: File `Lectures/Lecture1.tex' not found.
@@ -989,8 +989,8 @@ End of file on the terminal!
 
  
 Here is how much of TeX's memory you used:
- 19659 strings out of 477985
- 308026 string characters out of 5840058
+ 19651 strings out of 477985
+ 307954 string characters out of 5840058
  1850388 words of memory out of 5000000
  39528 multiletter control sequences out of 15000+600000
  537837 words of font info for 68 fonts, out of 8000000 for 9000
