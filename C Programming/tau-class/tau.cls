@@ -66,8 +66,7 @@
 \RequirePackage{chemfig}         % Chemical structures
 \RequirePackage{circuitikz}      % Circuits schematics
 \RequirePackage{supertabular}
-\RequirePackage{matlab-prettifier}
-\RequirePackage{listings}
+
 \RequirePackage{csquotes}
 \RequirePackage{ragged2e}
 \RequirePackage{subcaption}
