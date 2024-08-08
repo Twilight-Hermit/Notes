@@ -1,13 +1,13 @@
 # Fdb version 4
 ["biber main"] 0 "main.bcf" "main.bbl" "main" 0 -1
   "./tau.bib" 1723111680 119 ed5ecbd8ca8804b7f4821b201cc6f2fa ""
-  "main.bcf" 1723134271 107507 fb72b062aba684a7f7f3639e879ed1b5 "pdflatex"
+  "main.bcf" 1723134522 107507 fb72b062aba684a7f7f3639e879ed1b5 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1723134261 "/home/thefool/Notes/C Programming/main.tex" "main.pdf" "main" 1723134275 2
-  "/home/thefool/Notes/C Programming/main.tex" 1723134251 11082 f2dd51a942e0e6cee175b2527b1e4da7 ""
+["pdflatex"] 1723134517 "/home/thefool/Notes/C Programming/main.tex" "main.pdf" "main" 1723134523 2
+  "/home/thefool/Notes/C Programming/main.tex" 1723134508 11029 2cd0e9feba92ea431569249b06bd4da9 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc" 1689853683 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc" 1689853683 2375 baa924870cfb487815765f9094cf3728 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/stix2-type1/stix2-mathit.enc" 1689853683 3416 3b99a05a42a4705ec5a5521d2bffa072 ""
@@ -328,11 +328,11 @@
   "figures//Example2.pdf" 1723111680 32647 d6553b553ee90459e7bcf6bbe1962bbe ""
   "figures//Example3.pdf" 1723111680 45318 d646ef6f68157fd199418f4cbe183074 ""
   "figures//arch.png" 1693003240 23588 5bbd9f144f8db55f444b0ec2760f0674 ""
-  "main.aux" 1723134271 10781 2f1141bd11c533e59816fa1894695ac6 "pdflatex"
+  "main.aux" 1723134522 10779 d25417a59add56e6001aa3acde52e749 "pdflatex"
   "main.bbl" 0 -1 0 "biber main"
-  "main.run.xml" 1723134271 2395 3758a7f92bf96a539d77b473644c1047 "pdflatex"
-  "main.tex" 1723134251 11082 f2dd51a942e0e6cee175b2527b1e4da7 ""
-  "main.toc" 1723134271 1558 bd01f768e5c4118f03dee4c7c6e26d6d "pdflatex"
+  "main.run.xml" 1723134522 2395 3758a7f92bf96a539d77b473644c1047 "pdflatex"
+  "main.tex" 1723134508 11029 2cd0e9feba92ea431569249b06bd4da9 ""
+  "main.toc" 1723134522 1558 bd01f768e5c4118f03dee4c7c6e26d6d "pdflatex"
   "tau-class/tau.cls" 1723111680 14771 96bf6c70ef5eaf198774f7657254cebc ""
   "tau-class/taubabel.sty" 1723111680 2369 a1bf684fde36e78a6391539fd38a7968 ""
   "tau-class/tauenvs.sty" 1723111680 3183 d5bbfc779d2505e5da39eeff038cc6e0 ""

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.9.23)  8 AUG 2024 21:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.9.23)  8 AUG 2024 21:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1425,42 +1425,42 @@ File: microtype.cfg 2023/03/13 v3.1a microtype main configuration file (RS)
 ))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
-LaTeX Font Info:    Trying to load font information for T1+stix2 on input line 69.
+LaTeX Font Info:    Trying to load font information for T1+stix2 on input line 66.
  (/usr/share/texmf-dist/tex/latex/stix2-type1/t1stix2.fd
 File: t1stix2.fd 2018/04/02 v2.0.0-latex stix2 T1 font definitions
 ) (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for LS1/stix2/m/n on input line 69.
-LaTeX Font Info:    Trying to load font information for LS1+stix2 on input line 69.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for LS1/stix2/m/n on input line 66.
+LaTeX Font Info:    Trying to load font information for LS1+stix2 on input line 66.
  (/usr/share/texmf-dist/tex/latex/stix2-type1/ls1stix2.fd
 File: ls1stix2.fd 2018/04/02 v2.0.0-latex stix2 LS1 font definitions
 )
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for LS2/stix2/m/n on input line 69.
-LaTeX Font Info:    Trying to load font information for LS2+stix2 on input line 69.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for LS2/stix2/m/n on input line 66.
+LaTeX Font Info:    Trying to load font information for LS2+stix2 on input line 66.
  (/usr/share/texmf-dist/tex/latex/stix2-type1/ls2stix2.fd
 File: ls2stix2.fd 2018/04/02 v2.0.0-latex stix2 LS2 font definitions
 )
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 69.
-LaTeX Font Info:    ... okay on input line 69.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count522
@@ -1522,9 +1522,9 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Command `\dddot' is already robust on input line 69.
-LaTeX Info: Command `\ddddot' is already robust on input line 69.
-Package hyperref Info: Link coloring ON on input line 69.
+LaTeX Info: Command `\dddot' is already robust on input line 66.
+LaTeX Info: Command `\ddddot' is already robust on input line 66.
+Package hyperref Info: Link coloring ON on input line 66.
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 (/usr/share/texmf-dist/tex/latex/biblatex/lbx/english.lbx
@@ -1539,126 +1539,114 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' not found.
 
 No file main.bbl.
-Package biblatex Info: Reference section=0 on input line 69.
-Package biblatex Info: Reference segment=0 on input line 69.
-LaTeX Info: Redefining \microtypecontext on input line 69.
-Package microtype Info: Applying patch `item' on input line 69.
-Package microtype Info: Applying patch `toc' on input line 69.
-Package microtype Info: Applying patch `eqnum' on input line 69.
-Package microtype Info: Applying patch `footnote' on input line 69.
-Package microtype Info: Applying patch `verbatim' on input line 69.
+Package biblatex Info: Reference section=0 on input line 66.
+Package biblatex Info: Reference segment=0 on input line 66.
+LaTeX Info: Redefining \microtypecontext on input line 66.
+Package microtype Info: Applying patch `item' on input line 66.
+Package microtype Info: Applying patch `toc' on input line 66.
+Package microtype Info: Applying patch `eqnum' on input line 66.
+Package microtype Info: Applying patch `footnote' on input line 66.
+Package microtype Info: Applying patch `verbatim' on input line 66.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 69.
+LaTeX Info: Redefining \showhyphens on input line 66.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 (/usr/share/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 71.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 68.
  (/usr/share/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 )
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 71.
+(Font)              scaled to size 8.54997pt on input line 68.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `phv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 8.54997pt on input line 71.
+(Font)              scaled to size 8.54997pt on input line 68.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 17.09995pt on input line 71.
-LaTeX Font Info:    Calculating math sizes for size <18> on input line 71.
-LaTeX Font Info:    Trying to load font information for LS1+stix2scr on input line 71.
+(Font)              scaled to size 17.09995pt on input line 68.
+LaTeX Font Info:    Calculating math sizes for size <18> on input line 68.
+LaTeX Font Info:    Trying to load font information for LS1+stix2scr on input line 68.
  (/usr/share/texmf-dist/tex/latex/stix2-type1/ls1stix2scr.fd
 File: ls1stix2scr.fd 2018/04/02 v2.0.0-latex stix2 script LS1 font definitions
 )
-LaTeX Font Info:    Trying to load font information for LS2+stix2ex on input line 71.
+LaTeX Font Info:    Trying to load font information for LS2+stix2ex on input line 68.
  (/usr/share/texmf-dist/tex/latex/stix2-type1/ls2stix2ex.fd
 File: ls2stix2ex.fd 2018/04/02 v2.0.0-latex stix2 extentions LS2 font definitions
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 71.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 68.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (/usr/share/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 71.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 68.
  (/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (/usr/share/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying to load font information for LS1+stix2frak on input line 71.
+LaTeX Font Info:    Trying to load font information for LS1+stix2frak on input line 68.
  (/usr/share/texmf-dist/tex/latex/stix2-type1/ls1stix2frak.fd
 File: ls1stix2frak.fd 2018/04/02 v2.0.0-latex stix2 fraktur LS1 font definitions
 )
-LaTeX Font Info:    Trying to load font information for LS1+stix2bb on input line 71.
+LaTeX Font Info:    Trying to load font information for LS1+stix2bb on input line 68.
  (/usr/share/texmf-dist/tex/latex/stix2-type1/ls1stix2bb.fd
 File: ls1stix2bb.fd 2018/04/02 v2.0.0-latex stix2 blackboard LS1 font definitions
 )
-LaTeX Font Info:    Trying to load font information for LS2+stix2cal on input line 71.
+LaTeX Font Info:    Trying to load font information for LS2+stix2cal on input line 68.
  (/usr/share/texmf-dist/tex/latex/stix2-type1/ls2stix2cal.fd
 File: ls2stix2cal.fd 2018/04/02 v2.0.0-latex stix2 calligraphic LS2 font definitions
 )
-LaTeX Font Info:    Trying to load font information for LS1+stix2sf on input line 71.
+LaTeX Font Info:    Trying to load font information for LS1+stix2sf on input line 68.
  (/usr/share/texmf-dist/tex/latex/stix2-type1/ls1stix2sf.fd
 File: ls1stix2sf.fd 2018/04/02 v2.0.0-latex stix2 sans-serif LS1 font definitions
 )
-LaTeX Font Info:    Trying to load font information for LS2+stix2tt on input line 71.
+LaTeX Font Info:    Trying to load font information for LS2+stix2tt on input line 68.
  (/usr/share/texmf-dist/tex/latex/stix2-type1/ls2stix2tt.fd
 File: ls2stix2tt.fd 2018/04/02 v2.0.0-latex stix2 typewriter LS2 font definitions
 )
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 11.9699pt on input line 71.
+(Font)              scaled to size 11.9699pt on input line 68.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 5.69998pt on input line 71.
-
-/home/thefool/Notes/C Programming/main.tex:71: Undefined control sequence.
-\iflanguage ...e l@#1\endcsname \relax \@nolanerr 
-                                                  {#1}\else \ifnum \csname l...
-l.71     \maketitle
-                   
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 71.
+(Font)              scaled to size 5.69998pt on input line 68.
+LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 68.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 7.59998pt on input line 72.
+(Font)              scaled to size 7.59998pt on input line 69.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 7.59998pt on input line 72.
+(Font)              scaled to size 7.59998pt on input line 69.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 5.69998pt on input line 72.
+(Font)              scaled to size 5.69998pt on input line 69.
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--72
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
 
  []
 
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <9> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 72.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 69.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 8.54997pt on input line 72.
+(Font)              scaled to size 8.54997pt on input line 69.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 72.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 69.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 7.59998pt on input line 72.
+(Font)              scaled to size 7.59998pt on input line 69.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 72.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 69.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 5.69998pt on input line 72.
+(Font)              scaled to size 5.69998pt on input line 69.
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 73.
+(Font)              scaled to size 9.49997pt on input line 70.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 73.
+(Font)              scaled to size 9.49997pt on input line 70.
 No file main.toc.
 \tf@toc=\write5
 \openout5 = `main.toc'.
@@ -1668,12 +1656,12 @@ Package lineno Warning: Linenumber reference failed,
 (lineno)                rerun to get it right.
 
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 4.74998pt on input line 78.
+(Font)              scaled to size 4.74998pt on input line 75.
 Package lettrine.sty Info: Targeted height = 15.846pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 17.02998pt ({\color {taucolor}\bfseries \fontsize {26pt}{28pt}\selectfont {W}});
-(lettrine.sty)             reported on input line 80.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 86.
+(lettrine.sty)             reported on input line 77.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 83.
 (/usr/share/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
@@ -1684,40 +1672,40 @@ Package microtype Info: Loading generic protrusion settings for font family
 <figures//arch.png, id=7, 1445.4pt x 813.0375pt>
 File: figures//arch.png Graphic file (type png)
 <use figures//arch.png>
-Package pdftex.def Info: figures//arch.png  used on input line 124.
+Package pdftex.def Info: figures//arch.png  used on input line 121.
 (pdftex.def)             Requested size: 191.76599pt x 107.85721pt.
 <figures//Example2.pdf, id=9, 236.885pt x 188.705pt>
 File: figures//Example2.pdf Graphic file (type pdf)
 <use figures//Example2.pdf>
-Package pdftex.def Info: figures//Example2.pdf  used on input line 134.
+Package pdftex.def Info: figures//Example2.pdf  used on input line 131.
 (pdftex.def)             Requested size: 200.02545pt x 159.34613pt.
 <figures//Example3.pdf, id=10, 235.88126pt x 190.7125pt>
 File: figures//Example3.pdf Graphic file (type pdf)
 <use figures//Example3.pdf>
-Package pdftex.def Info: figures//Example3.pdf  used on input line 140.
+Package pdftex.def Info: figures//Example3.pdf  used on input line 137.
 (pdftex.def)             Requested size: 197.39099pt x 159.59502pt.
-Package mdframed Info: mdframed works in twoside mode on input line 179.
+Package mdframed Info: mdframed works in twoside mode on input line 176.
 
 
-LaTeX Warning: Reference `mdf@pagelabel-1' on page 1 undefined on input line 181.
+LaTeX Warning: Reference `mdf@pagelabel-1' on page 1 undefined on input line 178.
 
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 6.64998pt on input line 198.
+(Font)              scaled to size 6.64998pt on input line 195.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
-(Font)              scaled to size 6.64998pt on input line 198.
+(Font)              scaled to size 6.64998pt on input line 195.
 
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 198.
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 195.
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf-dist/fonts/enc/dvips/stix2-type1/stix2-t1.enc}
 
 
 {/usr/share/texmf-dist/fonts/enc/dvips/stix2-type1/stix2-mathit.enc}{/usr/share/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc} <./figures//arch.png>]
-Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 210.
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on input line 207.
  (./example.m)
-/home/thefool/Notes/C Programming/main.tex:210: Undefined control sequence.
+/home/thefool/Notes/C Programming/main.tex:207: Undefined control sequence.
 \iflanguage ...e l@#1\endcsname \relax \@nolanerr 
                                                   {#1}\else \ifnum \csname l...
-l.210 ...., language=Matlab,label=code]{example.m}
+l.207 ...., language=Matlab,label=code]{example.m}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1725,10 +1713,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/thefool/Notes/C Programming/main.tex:210: Undefined control sequence.
+/home/thefool/Notes/C Programming/main.tex:207: Undefined control sequence.
 \iflanguage ...e l@#1\endcsname \relax \@nolanerr 
                                                   {#1}\else \ifnum \csname l...
-l.210 ...., language=Matlab,label=code]{example.m}
+l.207 ...., language=Matlab,label=code]{example.m}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1736,10 +1724,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/thefool/Notes/C Programming/main.tex:210: Undefined control sequence.
+/home/thefool/Notes/C Programming/main.tex:207: Undefined control sequence.
 \iflanguage ...e l@#1\endcsname \relax \@nolanerr 
                                                   {#1}\else \ifnum \csname l...
-l.210 ...., language=Matlab,label=code]{example.m}
+l.207 ...., language=Matlab,label=code]{example.m}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1747,10 +1735,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/thefool/Notes/C Programming/main.tex:210: Undefined control sequence.
+/home/thefool/Notes/C Programming/main.tex:207: Undefined control sequence.
 \iflanguage ...e l@#1\endcsname \relax \@nolanerr 
                                                   {#1}\else \ifnum \csname l...
-l.210 ...., language=Matlab,label=code]{example.m}
+l.207 ...., language=Matlab,label=code]{example.m}
                                                   
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1759,10 +1747,10 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-LaTeX Warning: Reference `code' on page 2 undefined on input line 215.
+LaTeX Warning: Reference `code' on page 2 undefined on input line 212.
 
 
-Underfull \hbox (badness 2229) in paragraph at lines 219--220
+Underfull \hbox (badness 2229) in paragraph at lines 216--217
 \T1/stix2/m/n/9 (+20) can mod-ify the style of your ref-er-ences, for that, go to tau-
  []
 
@@ -1787,10 +1775,10 @@ File: lstlang3.sty 2023/02/27 1.9 listings language file
 ) (/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
 )
-/home/thefool/Notes/C Programming/main.tex:230: Undefined control sequence.
+/home/thefool/Notes/C Programming/main.tex:227: Undefined control sequence.
 \iflanguage ...e l@#1\endcsname \relax \@nolanerr 
                                                   {#1}\else \ifnum \csname l...
-l.230 \end{lstlisting}
+l.227 \end{lstlisting}
                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1798,10 +1786,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/thefool/Notes/C Programming/main.tex:230: Undefined control sequence.
+/home/thefool/Notes/C Programming/main.tex:227: Undefined control sequence.
 \iflanguage ...e l@#1\endcsname \relax \@nolanerr 
                                                   {#1}\else \ifnum \csname l...
-l.230 \end{lstlisting}
+l.227 \end{lstlisting}
                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1809,10 +1797,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/thefool/Notes/C Programming/main.tex:230: Undefined control sequence.
+/home/thefool/Notes/C Programming/main.tex:227: Undefined control sequence.
 \iflanguage ...e l@#1\endcsname \relax \@nolanerr 
                                                   {#1}\else \ifnum \csname l...
-l.230 \end{lstlisting}
+l.227 \end{lstlisting}
                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1820,10 +1808,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/thefool/Notes/C Programming/main.tex:230: Undefined control sequence.
+/home/thefool/Notes/C Programming/main.tex:227: Undefined control sequence.
 \iflanguage ...e l@#1\endcsname \relax \@nolanerr 
                                                   {#1}\else \ifnum \csname l...
-l.230 \end{lstlisting}
+l.227 \end{lstlisting}
                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1831,10 +1819,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/thefool/Notes/C Programming/main.tex:257: Undefined control sequence.
+/home/thefool/Notes/C Programming/main.tex:254: Undefined control sequence.
 \iflanguage ...e l@#1\endcsname \relax \@nolanerr 
                                                   {#1}\else \ifnum \csname l...
-l.257 \end{lstlisting}
+l.254 \end{lstlisting}
                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1842,10 +1830,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/thefool/Notes/C Programming/main.tex:257: Undefined control sequence.
+/home/thefool/Notes/C Programming/main.tex:254: Undefined control sequence.
 \iflanguage ...e l@#1\endcsname \relax \@nolanerr 
                                                   {#1}\else \ifnum \csname l...
-l.257 \end{lstlisting}
+l.254 \end{lstlisting}
                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1853,10 +1841,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/thefool/Notes/C Programming/main.tex:257: Undefined control sequence.
+/home/thefool/Notes/C Programming/main.tex:254: Undefined control sequence.
 \iflanguage ...e l@#1\endcsname \relax \@nolanerr 
                                                   {#1}\else \ifnum \csname l...
-l.257 \end{lstlisting}
+l.254 \end{lstlisting}
                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1864,10 +1852,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-/home/thefool/Notes/C Programming/main.tex:257: Undefined control sequence.
+/home/thefool/Notes/C Programming/main.tex:254: Undefined control sequence.
 \iflanguage ...e l@#1\endcsname \relax \@nolanerr 
                                                   {#1}\else \ifnum \csname l...
-l.257 \end{lstlisting}
+l.254 \end{lstlisting}
                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1876,13 +1864,13 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 268.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 265.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 6.64998pt on input line 268.
+(Font)              scaled to size 6.64998pt on input line 265.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 268.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 265.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
-(Font)              scaled to size 4.74998pt on input line 268.
+(Font)              scaled to size 4.74998pt on input line 265.
 [2{/usr/share/texmf-dist/fonts/enc/dvips/stix2-type1/stix2-mathrm.enc}{/usr/share/texmf-dist/fonts/enc/dvips/stix2-type1/stix2-mathrm-bold.enc} <./figures//Example2.pdf> <./figures//Example3.pdf>] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./main.aux)
@@ -1893,7 +1881,7 @@ LaTeX Warning: There were undefined references.
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
-Package lastpage Warning: Rerun to get the references right on input line 268.
+Package lastpage Warning: Rerun to get the references right on input line 265.
 
 
 Package biblatex Warning: Please (re)run Biber on the file:
@@ -1905,15 +1893,15 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 68640 strings out of 477985
- 1473278 string characters out of 5840058
- 2775954 words of memory out of 5000000
- 87622 multiletter control sequences out of 15000+600000
+ 68639 strings out of 477985
+ 1473273 string characters out of 5840058
+ 2775861 words of memory out of 5000000
+ 87621 multiletter control sequences out of 15000+600000
  777523 words of font info for 361 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  137i,16n,140p,1062b,2118s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/stix2-type1/STIX2Math.pfb></usr/share/texmf-dist/fonts/type1/public/stix2-type1/STIX2Text-Bold.pfb></usr/share/texmf-dist/fonts/type1/public/stix2-type1/STIX2Text-Italic.pfb></usr/share/texmf-dist/fonts/type1/public/stix2-type1/STIX2Text-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmtt8.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmtt9.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (2 pages, 812693 bytes).
+Output written on main.pdf (2 pages, 812481 bytes).
 PDF statistics:
  257 PDF objects out of 1000 (max. 8388607)
  217 compressed objects within 3 object streams
