@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.9.23)  8 AUG 2024 19:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.9.23)  8 AUG 2024 21:56
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -979,33 +979,20 @@ LaTeX Font Info:    Font shape `T1/zplTLF/b/n' will be
 Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: tex)
 
-Enter file name: ./C Programming/Main.tex
-(./C Programming/Main.tex
-
-! LaTeX Error: Can be used only in preamble.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.2 \documentclass
-                  [letterpaper, 12pt]{article}
-? 
+Enter file name: 
 ! Emergency stop.
- ...                                              
-                                                  
-l.2 \documentclass
-                  [letterpaper, 12pt]{article}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+<read *> 
+         
+l.207 \input{Lectures/Lecture1}
+                               ^^M
+End of file on the terminal!
 
  
 Here is how much of TeX's memory you used:
- 19665 strings out of 477985
- 308289 string characters out of 5840058
+ 19659 strings out of 477985
+ 308026 string characters out of 5840058
  1850388 words of memory out of 5000000
- 39530 multiletter control sequences out of 15000+600000
+ 39528 multiletter control sequences out of 15000+600000
  537837 words of font info for 68 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,7n,79p,458b,261s stack positions out of 10000i,1000n,20000p,200000b,200000s
