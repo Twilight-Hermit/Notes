@@ -1,7 +1,7 @@
 # Part A: Core
 
 ## I. Mathematical Methods of Physics
-- [*] Dimensional analysis
+- [ ] Dimensional analysis
 - [ ] Vector algebra and vector calculus
 - [ ] Linear algebra
   - [ ] Matrices
