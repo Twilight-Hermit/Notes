@@ -1,0 +1,8 @@
+MON - [[Mathematical Physics]]
+TUE - [Classical Mechanics]
+WED - [Quantum Mechanics]
+THU - [Electromagnetism]
+FRI - [Thermodynamics]  [Statistical Mechanics]
+SAT - [Problem Solving]
+SUN - [Review]
+[[Syllabus]]
