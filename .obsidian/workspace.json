@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Test.md",
+                "file": "Obsidian/Syllabus.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Test.md",
+                "file": "Obsidian/Syllabus.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Test.md",
+                "file": "Obsidian/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Test.md",
+                "file": "Obsidian/Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Test.md"
+                "file": "Obsidian/Syllabus.md"
               }
             }
           }
@@ -163,7 +163,7 @@
   "active": "7cfe367d1d78df19",
   "lastOpenFiles": [
     "Obsidian/Plan.md",
-    "Obsidian/Test.md",
+    "Obsidian/Syllabus.md",
     "Obsidian",
     "README.md"
   ]
