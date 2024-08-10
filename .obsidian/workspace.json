@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian/Harmonic Oscillator.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Harmonic Oscillator.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Harmonic Oscillator.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian/Harmonic Oscillator.md"
+                "file": "README.md"
               }
             }
           }
@@ -147,7 +147,7 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "a96f7db4bb04774c",
+  "active": "3428431e49eca15f",
   "lastOpenFiles": [
     "Obsidian/Harmonic Oscillator.md",
     "Untitled",
