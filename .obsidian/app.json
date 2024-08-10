@@ -1,1 +1,10 @@
-{}
+{
+  "userIgnoreFilters": [
+    "Templates/",
+    "C Programming/",
+    "Mathematical Physics/",
+    "Textbooks/",
+    "Mathematical Physics/Images/",
+    "Mathematical Physics/Lectures/"
+  ]
+}
