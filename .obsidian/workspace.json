@@ -1,52 +1,35 @@
 {
   "main": {
-    "id": "4785ff7add8d523d",
+    "id": "0ca0e041099fb3bd",
     "type": "split",
     "children": [
       {
-        "id": "ba538aba133e4209",
+        "id": "81b00eeb07de8450",
         "type": "tabs",
         "children": [
           {
-            "id": "57741b94c9b3f203",
+            "id": "3428431e49eca15f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Syllabus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cfe367d1d78df19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Obsidian/Syllabus.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5f132a2fa063f4fa",
+    "id": "8cee68574199bb33",
     "type": "split",
     "children": [
       {
-        "id": "25de806b981732ba",
+        "id": "8240fbecfb555989",
         "type": "tabs",
         "children": [
           {
-            "id": "96345bf32198a695",
+            "id": "a96f7db4bb04774c",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +39,7 @@
             }
           },
           {
-            "id": "1b4927ca36bcc415",
+            "id": "bde44230d1a9539e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +54,7 @@
             }
           },
           {
-            "id": "a464d59d3866d0a3",
+            "id": "0161c7d5dd26f641",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "b721d247db5405c0",
+    "id": "439ef09568194c5d",
     "type": "split",
     "children": [
       {
-        "id": "6a27269162d39a5d",
+        "id": "dc835f68e9756843",
         "type": "tabs",
         "children": [
           {
-            "id": "e3509afe208a28bc",
+            "id": "adfab0352d98f6b7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian/Syllabus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +92,18 @@
             }
           },
           {
-            "id": "a6cb15f38f6b5add",
+            "id": "98d4ce7360cc60ae",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian/Syllabus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "d33fd8623d3f9c61",
+            "id": "7b42ce607f3783ec",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,13 +114,11 @@
             }
           },
           {
-            "id": "93431e4681d28a28",
+            "id": "4edb5897b19c134d",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Obsidian/Syllabus.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,11 +139,11 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "7cfe367d1d78df19",
+  "active": "a96f7db4bb04774c",
   "lastOpenFiles": [
-    "Obsidian/Plan.md",
     "Obsidian/Syllabus.md",
+    "Obsidian/Plan.md",
     "Obsidian",
-    "README.md"
+    "Untitled"
   ]
 }
